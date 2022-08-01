@@ -1,5 +1,5 @@
 # Acoustic Levitator
-A USB-powered Acoustic Levitator / Ultrasonic Levitator Design
+A USB-powered Acoustic Levitator / Ultrasonic Levitator Design.
 
 **Demo-video: https://www.youtube.com/watch?v=TaKqAV2ePKo&ab_channel=TheRussianDJ**
 
