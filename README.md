@@ -7,4 +7,4 @@ A USB-powered Acoustic Levitator / Ultrasonic Levitator Design
 
 ![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Acoustic_Levitator%20IMG_1.jpg)
 ![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Acoustic_Levitator%20IMG_2.jpg)
-![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Schematic.jpg)
+![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Schematic.JPG)
