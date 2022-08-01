@@ -5,5 +5,6 @@ A USB-powered Acoustic Levitator / Ultrasonic Levitator Design
 
 **Purchase on Tindie: https://www.tindie.com/products/aptechnologies/acoustic-levitator-ultrasonic-levitation-usb/**
 
-![IMG_1](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/IMG_1.jpg)
-![IMG_4](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/IMG_4.jpg)
+![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Acoustic_Levitator IMG_1.jpg)
+![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Acoustic_Levitator IMG_2.jpg)
+![Acoustic_Levitator](https://github.com/APTechnologies/Acoustic_Levitator/blob/master/Schematic.jpg)
